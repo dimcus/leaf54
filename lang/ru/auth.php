@@ -20,6 +20,7 @@ return [
     'password_t' => 'Пароль',
     'remember_t' => 'Запомнить пароль',
     'forgot_t' => 'Забыли пароль?',
-    'login_t' => 'Вход'
+    'login_t' => 'Вход',
+    'logout_b' => 'Выход',
 
 ];

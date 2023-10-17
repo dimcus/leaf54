@@ -20,5 +20,7 @@ return [
     'password_t' => 'Password',
     'remember_t' => 'Remember me',
     'forgot_t' => 'Forgot your password?',
-    'login_t' => 'Log in'
+    'login_t' => 'Log in',
+    'logout_b' => 'Log Out',
+
 ];
